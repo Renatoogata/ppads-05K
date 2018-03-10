@@ -6,21 +6,20 @@ esperadas do sistema.
 
 ## Objetivos
 
-* Objetivo 1
-* Objetivo 2
-* Objetivo 3
-* etc.
+* Facilitar a Vida de pacientes a procurarem por um medivo
+* Ajudar os medicos ao divulgar seus consultórios
+* Em caso de emergencia o cliente conseguirá ajuda medica no lugar mais proximo possivel
 
 ## Problema
 
-* Descrição do problema: ___
-* Quem é afetado pelo problema: ____
-* Impacto no negócio: ___
-* Benefícios de uma boa solução: ___
+* Descrição do problema: Muitas pessoas que possuem planos de saude ou nao, deixam de ir ao médico para fazer checkup ou tratar de algum problema, por nâo falta de tempo e por dar prioridade há outras coisas que nâo envolvem fazer uns exames para ver se a saude está boa.
+* Quem é afetado pelo problema: Todas as pessoas que deixam de ir em um medico resolver um problema simples, ou até de se prevenir que esses pequenos problemas apareçam e se transformam em um problema maior
+* Impacto no negócio: 
+* Benefícios de uma boa solução: Uma solução que estamos a desenvolver, é de desenvolver um software que irá disponibilizar todos os consultorios disponiveis de acordo com o plano de saude da pessoa, para que facilite a vida da pessoa que está precisando de alguma ajuda médica.
 
 ## Definições, abreviações e outros termos do domínio do problema
 
-* Definição 1
+* 
 * Definição 2
 * Definição 3
 * etc.
@@ -41,16 +40,13 @@ esperadas do sistema.
 
 ## Usuários
 
-* Tipo de usuário 1
-* Tipo de usuário 2
-* Tipo de usuário 3
-* etc.
+* Qualquer pessoa que precisa de ajuda médica
 
 ## Funcionalidades do produto
 
-* Funcionalidade 1
-* Funcionalidade 2
-* etc.
+* Realizar Cadastro do Cliente
+* Realizar Cadastro do Médico
+* Função de busca médica na área definida pelo usuario
 
 ## Restrições do projeto
 
