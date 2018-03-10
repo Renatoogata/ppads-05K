@@ -12,7 +12,7 @@ esperadas do sistema.
 
 ## Problema
 
-* Descrição do problema: Muitas pessoas que possuem planos de saude ou nao, deixam de ir ao médico para fazer checkup ou tratar de algum problema, por nâo falta de tempo e por dar prioridade há outras coisas que nâo envolvem fazer uns exames para ver se a saude está boa.
+* Descrição do problema: Muitas pessoas que possuem planos de saude ou nao, deixam de ir ao médico para fazer checkup ou tratar de algum problema, por nâo falta de tempo e por dar prioridade a outras coisas que nâo envolvem fazer uns exames para ver se a saude está boa. E também para quem precisa de ajuda méica de uma forma rápida e eficiente.
 * Quem é afetado pelo problema: Todas as pessoas que deixam de ir em um medico resolver um problema simples, ou até de se prevenir que esses pequenos problemas apareçam e se transformam em um problema maior
 * Impacto no negócio: Irá afetar diramente os consultórios médicos que terâo um outro meio de visibilidade e os pacientes que terâo uma forma muito mais rápida de achar ajuda.
 * Benefícios de uma boa solução: Uma solução que estamos a desenvolver, é de desenvolver um software que irá disponibilizar todos os consultorios disponiveis de acordo com o plano de saude da pessoa, para que facilite a vida da pessoa que está precisando de alguma ajuda médica.
