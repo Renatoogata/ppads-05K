@@ -1,6 +1,7 @@
 # Requisitos
 
 Requisitos Funcionais
+
   Requisito Funcional 1: Cadastro de Clientes
 	  Descrição: O usuário poderá fazer o cadastro no site fornecendo todas as informações necessárias.
 
@@ -18,6 +19,7 @@ Requisitos Funcionais
     
  
 Requisitos Não Funcionais
+
   Requisito Não Funcional 1: Deve ser responsivo.
 	  Descrição: o site deverá funcionar de forma ágil e pratica para que seja benéfico ao paciente e também ao médico.
 
