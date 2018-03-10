@@ -1,6 +1,6 @@
 # Documento de Visão do Projeto "NOME DO PROJETO"
 
-Este documento apresenta uma solução de software para o projeto *"NOME DO PROJETO"*, solicitado pelo cliente *"NOME DO CLIENTE"*, 
+Este documento apresenta uma solução de software para o projeto *"Doctors Help"*, solicitado pelo cliente *"Tomaz"*, 
 apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades 
 esperadas do sistema.
 
@@ -19,24 +19,17 @@ esperadas do sistema.
 
 ## Definições, abreviações e outros termos do domínio do problema
 
-* 
-* Definição 2
-* Definição 3
-* etc.
+* Ajuda Médica
+* Facilidade em marcar consultas
 
 ## Integração com outros sistemas
 
-* Sistema externo 1
-* Sistema externo 2
-* Sistema externo 3
-* etc.
+* Google maps (ideia em planejamento)
  
 ## Interessados
 
-* Tipo de interessado 1
-* Tipo de interessado 2
-* Tipo de interessado 3
-* etc.
+* Senhor(a) de idade
+*Pai/mae de familia
 
 ## Usuários
 
@@ -50,10 +43,7 @@ esperadas do sistema.
 
 ## Restrições do projeto
 
-* Restrição 1
-* Restrição 2
-* Restrição 3
-* etc.
+* Projeto Será Desenvolvido em Linguagem Html, PHP, CSS
 
 ## Protótipos de tela
 
